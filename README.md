@@ -5,7 +5,7 @@ Nombre: Víctor Pule
 Interfaz
 ![interfaz](https://github.com/victorpule17/AppUTNCalculadora_PuleVictor/assets/125833514/b7244f02-2c95-4005-b835-33f5dfe04ca6)
 
-Cédigo
+Código
 ![codigo](https://github.com/victorpule17/AppUTNCalculadora_PuleVictor/assets/125833514/55cb2273-3d0b-43a9-9392-ddc76da2fdb1)
 
 Métodos
