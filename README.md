@@ -17,3 +17,8 @@ Funcionamiento Suma
 Funcionamiento Resta
 ![Resta](https://github.com/victorpule17/AppUTNCalculadora_PuleVictor/assets/125833514/19bbd667-83e2-4e58-b6b6-7c3d3978b238)
 
+Funcionamiento Multiplación
+![Multiplicacion](https://github.com/victorpule17/AppUTNCalculadora_PuleVictor/assets/125833514/9775979f-f655-4b08-b986-fd773df1323d)
+
+Funcionamiento División
+![Division](https://github.com/victorpule17/AppUTNCalculadora_PuleVictor/assets/125833514/39fe2b49-b175-4542-8f97-863db10c03da)
